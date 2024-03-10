@@ -1,0 +1,73 @@
+---
+title: "Napa Valley 2024"
+format: html
+---
+
+```{r}
+#| include: false
+source(here::here('01-clean.R'))
+
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+## lets do a crosstalk table that has the points on the map!
+library(crosstalk)
+library(leaflet)
+for_tbl <- wine_geo |>
+  transmute(Date = date, #date_formatted,
+            Name = name,
+            Type = type,
+            Hours = hours,
+            Notes = comments,
+            lat, lon) |>
+  arrange(Name!='airbnb',Date)
+wine_geo_s <- SharedData$new(for_tbl)
+library(htmltools)
+
+```
+
+
+
+::: {.column-screen-inset}
+
+
+```{r}
+
+iconSet <- awesomeIconList(
+  home = makeAwesomeIcon(icon = "home", library = "fa", markerColor = 'red', iconColor = 'white'),
+  flag = makeAwesomeIcon(icon = "flag", library = "fa", markerColor = 'blue', iconColor = 'white'),
+  wine = makeAwesomeIcon(icon = 'glass', library = "fa",
+  markerColor = 'purple', iconColor = 'white'),
+  food = makeAwesomeIcon(icon = 'cutlery', library = "fa",
+  markerColor = 'orange', iconColor = 'white')
+)
+
+# filter_slider('dt', 'Date', wine_geo_s, 'Date',
+#               dragRange = FALSE)
+
+filter_checkbox("dt", NULL, wine_geo_s, ~forcats::fct_inorder(case_when(Name=='airbnb'~'AirBnB',
+                                                                        is.na(Date) ~ 'Unspecified', TRUE ~ format(Date,'%a %b %d'))), inline = TRUE)
+
+bscols(
+leaflet(wine_geo_s) |>
+  addProviderTiles(provider = 'OpenStreetMap.Mapnik') |>
+  addAwesomeMarkers(label = ~Name,
+                    icon = ~iconSet[case_when(Type=='housing'~'home',
+                                              grepl('wine', Type) ~ 'wine',
+                                              grepl('food', Type) ~ 'food',
+                                              TRUE ~ 'flag')])
+,
+DT::datatable(wine_geo_s, 
+              rownames = FALSE,
+              options = 
+                list(dom = 'tilp',
+                     columnDefs = list(list(visible=FALSE, targets=c(5,6))),
+                     initComplete = JS(
+        "function(settings, json) {",
+        "$(this.api().table().container()).css({'font-size': '50%'});",
+        "}")),
+              filter = 'none')
+)
+
+```
+
+:::
