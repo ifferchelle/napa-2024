@@ -3,6 +3,8 @@ g <- dplyr::glimpse
 g(wine_geo)
 library(dplyr)
 wine_geo <- wine_geo |>
+  mutate(drop = if_else(is.na(drop), FALSE, drop)) |>
+  filter(drop!=TRUE) |>
   mutate(hours = if_else(is.na(opens), '',
                          paste(format(as.POSIXct(opens), '%I:%M %p'),'-',
                                format(as.POSIXct(closes), '%I:%M %p'))),

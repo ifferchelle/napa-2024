@@ -1,68 +1,84 @@
-date,name,type,opens,closes,comments,lat,lon
-2024/4/5,SFO airport,travel,,,,37.61928659,-122.3815578
-2024/4/5,airbnb,housing,,,"1010 Slater Street, Santa Rosa CA 95404",38.4502765,-122.7157142
-2024/4/5,mayo family,wine+food,10:30,18:30,closed Tues,38.41684192,-122.5491561
-2024/4/6,wine country balloons,sightseeing,,,,38.51177999,-122.7793294
-2024/4/6,dry creek,wine,10:00,16:30,,38.65290162,-122.9248706
-2024/4/6,flowers,wine,10:00,17:00,closed Tues,38.56400417,-122.8729684
-2024/4/6,ridge,wine,10:00,16:00,,38.65932069,-122.8856694
-2024/4/7,kj,wine+food,10:00,17:00,,38.5069832,-122.7729498
-2024/4/7,deloach,wine,10:00,16:30,sale? closed Tues & Wed,38.4624698,-122.8200001
-2024/4/7,willis seafood,food,11:30,20:00,,38.61203332,-122.8712493
-2024/4/8,william hill,wine,10:00,17:00,"closed Tues, Wed",38.35547076,-122.2702068
-2024/4/8,jarvis,wine,9:00,17:00,,38.35521462,-122.2152957
-2024/4/8,black stallion,wine,10:00,17:00,,38.35981497,-122.2906334
-2024/4/9,sterling,wine,10:00,17:00,,38.56997778,-122.5546803
-2024/4/9,tank,wine,10:00,17:00,,38.5751429,-122.5798411
-2024/4/8,james cole,wine,10:00,17:00,,38.37074431,-122.2991727
-,del dotto,wine,12:00,17:00,,38.47979641,-122.442409
-2024/4/10,cakebread,wine,10:00,16:30,,38.44782401,-122.4108942
-2024/4/10,vgs chateau potelle winery,wine+food,9:00,17:00,experience 10-3p every 30 mins,38.4979382,-122.4598402
-2024/4/17,bedrock,wine,10:00,16:30,,38.293239,-122.4562905
-2024/4/17,schug,wine,10:00,17:00,,38.23069043,-122.476737
-2024/4/17,gloria ferrer,wine,10:00,17:00,closed Tues,38.22382763,-122.4722584
-2024/4/17,anaba,wine+food,10:30,17:00,,,
-2024/4/12,joseph phelps,wine+food,10:00,16:00,,38.5071996,-122.4286243
-2024/4/12,beringer,wine,10:00,17:00,,38.51104794,-122.4807358
-2024/4/12,mumm,wine,10:00,18:00,,38.4792889,-122.3945796
-2024/4/13,rsv,wine,,,,,
-2024/4/13,deloach,wine+food,10:00,16:30,closed Tues & Wed,38.4624614,-122.8199894
-2024/4/14,point reyes lighthouse,sightseeing,10:00,16:00,Sat & Sun only,37.99653625,-123.0204895
-2024/4/14,fort ross,wine,10:00,15:00,closed Wed & Thur,38.51128888,-123.1945454
-,wine train,wine,8:00,17:00,,38.3023922,-122.2835488
-2024/4/16,oxbow public market,food,7:00,21:00,,38.30161168,-122.2816687
-2024/4/18,pride,wine,10:00,15:30,closed Tues,38.52569162,-122.5627909
-2024/4/18,barnett,wine,10:00,15:00,,38.53201721,-122.5536338
-2024/4/18,kunde,wine,10:30,17:00,,38.41045372,-122.5397105
-2024/4/18,bwise,wine,10:30,16:30,,38.41795201,-122.5500708
-2024/4/11,duckhorn,wine,10:00,16:00,,38.52941973,-122.4907133
-2024/4/11,freemark,wine,10:00,17:00,,38.52557349,-122.4963364
-2024/4/11,v. sattui,wine,9:30,17:00,,38.4889652,-122.4481501
-2024/4/10,clif family food truck,food,11:30,17:00,"closed Mon & Tues, only open to 4 Thur-Sun",38.50028263,-122.4640302
-2024/4/15,bouchaine,wine,10:00,16:30,,38.22640654,-122.3313226
-2024/4/15,domaine carneros,wine,10:00,17:00,,38.25549473,-122.3513943
-2024/4/15,gunbun,wine+food,11:00,16:30,,38.28074802,-122.4171787
-,hess perrson,wine+food,10:00,16:30,Fri-Sun only,38.33853895,-122.389924
-2024/4/19,muir woods,sightseeing,8:00,19:00,,37.8928503,-122.5724925
-2024/4/19,grand hyatt,housing,,,,37.612801,-122.3938939
-2024/4/20,SFO airport,travel,,,,37.61928659,-122.3815578
-,nickel & nickel,wine,10:00,16:30,david,38.44291361,-122.4057241
-2024/4/10,st supery,wine,10:00,17:00,david,38.4553008,-122.4143451
-2024/4/10,turnbull,wine,10:00,16:30,david,38.4445522,-122.408417
-2024/4/7,croix,wine,10:00,16:00,david,38.4814498,-122.7758766
-2024/4/12,ZD,wine,10:00,16:00,david,38.47644282,-122.3892448
-2024/4/8,stags leap,wine,10:00,16:00,david,38.41417809,-122.3214775
-2024/4/8,chimney rock,wine,10:00,17:00,david,38.39053932,-122.3135949
-2024/4/11,br cohn,wine,10:00,17:00,closed Tues-Thur,38.34939433,-122.5016496
-2024/4/7,siduri wine bar,wine,10:00,17:00,,38.60955381,-122.8709887
-2024/4/16,grove at cia restaurant,food,17:00,21:00,closed Mon & Tues; brunch on Sat/Sun 10:30-2:30,38.30290264,-122.2803274
-2024/4/15,abbot's passage,wine,11:00,16:30,closed Tues & Wed,38.34039596,-122.5067771
-2024/4/7,macrostie,wine,11:00,17:00,opens 10a fri-sun,38.55572646,-122.8704929
-2024/4/9,castello di amorosa,wine,10:00,17:30,open until 6p on Fri-Sun,38.55892419,-122.5412
-,press,food,,,,38.48783081,-122.4503104
-,osha,food,,,,38.30082945,-122.2862256
-,auberge du soleil,food,,,,38.49342837,-122.4060214
-,ciccio,food,,,,38.40657665,-122.3668755
-,el molino central,food,,,,38.31510065,-122.4819805
-,glen ellen star,food ,,,,38.36432125,-122.5245385
-,mustards,food,,,,38.41898873,-122.3881464
+drop,date,time,confirmed,name,type,opens,closes,comments,lat,lon
+,2024/4/5,,T,SFO airport,travel,,,,37.61928659,-122.3815578
+,2024/4/5,,T,airbnb,housing,,,"1010 Slater Street, Santa Rosa CA 95404",38.4502765,-122.7157142
+,2024/4/5,4:30 PM,T,mayo family,wine+food,10:30,18:30,closed Tues,38.41684192,-122.5491561
+,2024/4/6,6:45 AM,T,wine country balloons,sightseeing,,,,38.51177999,-122.7793294
+,2024/4/6,12:00 PM,T,dry creek,wine,10:00,16:30,,38.65290162,-122.9248706
+,2024/4/6,3:30 PM,T,ferrari,wine,10:30,17:00,chalk hill sister,38.71140144,-122.9782751
+,2024/4/6,,,flowers,wine,10:00,17:00,closed Tues,38.56400417,-122.8729684
+,2024/4/6,,,ridge,wine,10:00,16:00,,38.65932069,-122.8856694
+,2024/4/7,11:00 AM,T,kj,wine+food,10:00,17:00,garden tour,38.5069832,-122.7729498
+,2024/4/18,11:00 AM,T,kj,wine+food,10:00,17:00,wine+food experience,38.5069832,-122.7729498
+,2024/4/7,,,deloach,wine,10:00,16:30,sale? closed Tues & Wed,38.4624698,-122.8200001
+,2024/4/7,3:30 PM,T,banshee,wine,10:00,17:00,"chalk hill sister, closed Tues & Wed",38.68219827,-122.8353906
+,2024/4/7,5:30 PM,T,willis seafood,food,11:30,20:00,,38.61203332,-122.8712493
+,2024/4/8,10:00 AM,T,william hill,wine,10:00,17:00,"closed Tues, Wed",38.35547076,-122.2702068
+,2024/4/8,,,jarvis,wine,9:00,17:00,,38.35521462,-122.2152957
+,2024/4/8,,,black stallion,wine,10:00,17:00,,38.35981497,-122.2906334
+,2024/4/9,,,sterling,wine,10:00,17:00,,38.56997778,-122.5546803
+,2024/4/9,,,tank,wine,10:00,17:00,,38.5751429,-122.5798411
+,2024/4/8,,,james cole,wine,10:00,17:00,,38.37074431,-122.2991727
+T,,,,del dotto,wine,12:00,17:00,,38.47979641,-122.442409
+,2024/4/17,,,cakebread,wine,10:00,16:30,,38.44782401,-122.4108942
+,2024/4/11,3:00 PM,T,vgs chateau potelle winery,wine+food,9:00,17:00,experience 10-3p every 30 mins,38.4979382,-122.4598402
+,,,,bedrock,wine,10:00,16:30,,38.293239,-122.4562905
+,2024/4/10,2:00 PM,T,schug,wine,10:00,17:00,,38.23069043,-122.476737
+,2024/4/10,,,gloria ferrer,wine,10:00,17:00,closed Tues,38.22382763,-122.4722584
+,2024/4/18,,,anaba,wine+food,10:30,17:00,,38.23623182,-122.4639906
+,2024/4/12,12:00 PM,T,joseph phelps,wine+food,10:00,16:00,,38.5071996,-122.4286243
+,2024/4/12,,,beringer,wine,10:00,17:00,,38.51104794,-122.4807358
+,2024/4/12,,,mumm,wine,10:00,18:00,,38.4792889,-122.3945796
+T,,,,rsv,wine,,,,,
+,,,,deloach,wine+food,10:00,16:30,closed Tues & Wed,38.4624614,-122.8199894
+,2024/4/13,,,santa rosa farmer's market,sightseeing,8:30,13:00,saturday,38.49363776,-122.7508112
+,2024/4/13,11:00 AM,T,chalk hill,wine+food,10:30,16:00,spring release party,38.56825531,-122.7710052
+,2024/4/19,10:30 AM,T,chalk hill,wine,10:30,16:00,hummer tour,38.56825531,-122.7710052
+,2024/4/13,1:00 PM,T,roth,wine,10:30,16:00,"chalk hill sister, closed Mon-Wed",38.57070471,-122.7774855
+,2024/4/14,,,point reyes lighthouse,sightseeing,10:00,16:00,Sat & Sun only,37.99653625,-123.0204895
+,2024/4/14,,,fort ross,wine,10:00,15:00,closed Wed & Thur,38.51128888,-123.1945454
+T,,,,wine train,wine,8:00,17:00,,38.3023922,-122.2835488
+,,,,oxbow public market,food,7:00,21:00,,38.30161168,-122.2816687
+,,,,pride,wine,10:00,15:30,closed Tues,38.52569162,-122.5627909
+,,,,barnett,wine,10:00,15:00,,38.53201721,-122.5536338
+,2024/4/16,,,kunde,wine,10:30,17:00,,38.41045372,-122.5397105
+,2024/4/16,,,bwise,wine,10:30,16:30,,38.41795201,-122.5500708
+,2024/4/11,,,duckhorn,wine,10:00,16:00,,38.52941973,-122.4907133
+,2024/4/11,10:00 AM,T,freemark,wine,10:00,17:00,,38.52557349,-122.4963364
+,2024/4/11,,,v. sattui,wine,9:30,17:00,,38.4889652,-122.4481501
+,2024/4/17,,,clif family food truck,food,11:30,17:00,"closed Mon & Tues, only open to 4 Thur-Sun",38.50028263,-122.4640302
+,2024/4/15,10:00 AM,T,bouchaine,wine,10:00,16:30,,38.22640654,-122.3313226
+,2024/4/16,10:00 AM,T,domaine carneros,wine,10:00,17:00,,38.25549473,-122.3513943
+,2024/4/16,1:00 PM,T,gunbun,wine+food,11:00,16:30,,38.28074802,-122.4171787
+T,,,,hess perrson,wine+food,10:00,16:30,Fri-Sun only,38.33853895,-122.389924
+,2024/4/19,,,muir woods,sightseeing,8:00,19:00,,37.8928503,-122.5724925
+,2024/4/19,,,grand hyatt,housing,,,,37.612801,-122.3938939
+,2024/4/20,,,SFO airport,travel,,,,37.61928659,-122.3815578
+,,,,nickel & nickel,wine,10:00,16:30,david,38.44291361,-122.4057241
+,2024/4/17,,,st supery,wine,10:00,17:00,david,38.4553008,-122.4143451
+,2024/4/17,,,turnbull,wine,10:00,16:30,david,38.4445522,-122.408417
+,2024/4/7,,,croix,wine,10:00,16:00,david,38.4814498,-122.7758766
+,2024/4/12,,,ZD,wine,10:00,16:00,david,38.47644282,-122.3892448
+,2024/4/8,,,stags leap,wine,10:00,16:00,david,38.41417809,-122.3214775
+,2024/4/8,,,chimney rock,wine,10:00,17:00,david,38.39053932,-122.3135949
+,2024/4/15,,,br cohn,wine,10:00,17:00,closed Tues-Thur,38.34939433,-122.5016496
+,2024/4/7,,,siduri wine bar,wine,10:00,17:00,,38.60955381,-122.8709887
+,2024/4/16,,,grove at cia restaurant,food,17:00,21:00,closed Mon & Tues; brunch on Sat/Sun 10:30-2:30,38.30290264,-122.2803274
+,2024/4/15,,,abbot's passage,wine,11:00,16:30,closed Tues & Wed,38.34039596,-122.5067771
+,2024/4/7,,,macrostie,wine,11:00,17:00,opens 10a fri-sun,38.55572646,-122.8704929
+,2024/4/9,,,castello di amorosa,wine,10:00,17:30,open until 6p on Fri-Sun,38.55892419,-122.5412
+,,,,press,food,,,,38.48783081,-122.4503104
+,,,,osha,food,,,,38.30082945,-122.2862256
+,,,,auberge du soleil,food,,,,38.49342837,-122.4060214
+,,,,ciccio,food,,,,38.40657665,-122.3668755
+,,,,el molino central,food,,,,38.31510065,-122.4819805
+,,,,glen ellen star,food ,,,,38.36432125,-122.5245385
+,,,,mustards,food,,,,38.41898873,-122.3881464
+,,,,bird and the bottle,food,,,,38.44456638,-122.7059111
+,,,,flamingo's lazeaway club,food+sightseeing,,,,38.45138187,-122.6887203
+,,,,rosso pizzeria,food,,,,38.44206412,-122.7036716
+,,,,trione-annadel state park,sightseeing,,,,38.45225217,-122.6346359
+,,,,taylor mountain regional park,sightseeing,,,,38.41270795,-122.6909768
+,,,,shulz museum,sightseeing,,,,38.46036856,-122.7359573
+,,,,silverado,wine,10:00,17:00,chalk hill sister,38.41217434,-122.3369784
+,,,,sebastiani,wine,10:00,17:00,chalk hill sister,38.29322007,-122.4493241
+,,,,foley johnson,wine,10:00,17:00,chalk hill sister,38.45047167,-122.4133644

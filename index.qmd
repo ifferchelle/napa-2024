@@ -14,6 +14,7 @@ library(crosstalk)
 library(leaflet)
 for_tbl <- wine_geo |>
   transmute(Date = date, #date_formatted,
+            Time = time,
             Name = name,
             Type = type,
             Hours = hours,
